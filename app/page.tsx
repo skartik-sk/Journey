@@ -142,14 +142,6 @@ const journeyData = [
     link: "https://learn.blueshift.gg"
   },
   {
-    date: "December 2025",
-    title: "Mag Task & Workflow Optimization",
-    description: "Developed 'Mag Task', a streamlined task management application focused on improving daily workflows, utilizing React and robust state management.",
-    tools: ["TypeScript", "React", "State Management"],
-    type: "Project",
-    link: "https://task-brain.netlify.app/"
-  },
-  {
     date: "Early 2026",
     title: "AI Agent Frameworks & WebSockets",
     description: "Pivoted research into AI integration, experimenting with Eliza Agent Frameworks and Node.js WebSockets to build autonomous, scalable real-time agents.",
@@ -166,7 +158,7 @@ const journeyData = [
     link: "https://github.com/skartik-sk/Solana-turbin"
   },
   {
-    date: "May 2026",
+    date: "April 2026",
     title: "Graduation & The Global Stage",
     description: "Successfully wrapping up my B.Tech in CSE. Transitioning into the global Web3 & IT industry, equipped with an exhaustive portfolio of full-stack, mobile, and decentralized architectures.",
     tools: ["Career Transition", "Global Networking"],
